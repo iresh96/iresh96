@@ -12,7 +12,7 @@ class Bio extends SoftwareEngineer {
   location = "Colombo. Sri Lanka";
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends SoftwareEngineer {
   languages = ["JavaScript","TypeScript"];
   databases = ["MySQL", "MongoDB", "PostgreSQL"];
   frameworks = ["React", "React Native", "NestJs", "GraphQL", "Express"];
