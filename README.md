@@ -3,9 +3,9 @@
 </p>
 
 ```js
-import SoftwareDeveloper from "ireshmadushanka";
+import SoftwareEngineer from "ireshmadushanka";
 
-class Bio extends SoftwareDeveloper {
+class Bio extends SoftwareEngineer {
   name = "Iresh Madushanka";
   title = "Full Stack Developer";
   company = "Beta Launch";
@@ -13,7 +13,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages = ["JavaScript", "Python", "Java"];
+  languages = ["JavaScript","TypeScript"];
   databases = ["MySQL", "MongoDB", "PostgreSQL"];
   frameworks = ["React", "React Native", "NestJs", "GraphQL", "Express"];
 }
