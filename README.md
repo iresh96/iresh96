@@ -15,6 +15,6 @@ class Bio extends SoftwareEngineer {
 class Skills extends SoftwareEngineer {
   languages = ["JavaScript","TypeScript"];
   databases = ["MySQL", "MongoDB", "PostgreSQL"];
-  frameworks = ["React", "React Native", "NestJs", "GraphQL", "Express"];
+  frameworks = ["React", "React Native", "NextJs", "NestJs", "GraphQL", "Express"];
 }
 ```
