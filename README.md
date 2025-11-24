@@ -9,7 +9,7 @@ class Bio extends SoftwareEngineer {
   name = "Iresh Madushanka";
   title = "Full Stack Developer";
   company = "Beta Launch";
-  location = "Colombo. Sri Lanka";
+  location = "Chelles, France";
 }
 
 class Skills extends SoftwareEngineer {
